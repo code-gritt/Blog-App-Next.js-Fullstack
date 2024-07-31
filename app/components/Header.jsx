@@ -44,8 +44,7 @@ const Header = () => {
           />
           <button
             type="submit"
-            className="transition ease-in-out delay-100 shadow-lg bg-[#3d3d3d] text-white flex gap-2 font-medium py-1 px-3 sm:py-3 sm:px-6 
-          border border-solid border-black items-center rounded"
+            className="transition ease-in-out delay-100 shadow-lg bg-[#3d3d3d] text-white flex gap-2 font-medium py-1 px-3 sm:py-3 sm:px-6 items-center"
           >
             Subscribe
           </button>
