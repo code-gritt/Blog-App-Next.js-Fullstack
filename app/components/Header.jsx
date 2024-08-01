@@ -1,9 +1,17 @@
 import Image from "next/image";
-import React from "react";
+import React, { useEffect } from "react";
 import blog_logo from "../assets/blog_logo.webp";
 import right_arrow from "../assets/right_arrow.png";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 const Header = () => {
+  useEffect(() => {
+    AOS.init({
+      duration: 600,
+    });
+    AOS.refresh();
+  }, []);
   return (
     <>
       <div className="py-3 px-5 md:px-12 lg:px-28 shadow-lg rounded bg-[#fbbf24]">
@@ -29,8 +37,16 @@ const Header = () => {
         </div>
       </div>
       <div className="text-center my-8">
-        <h1 className="text-3xl sm:text-5xl font-medium">Latest Blogs</h1>
-        <p className="mt-10 max-w-[740px] m-auto text-xs sm:text-base">
+        <h1
+          data-aos="fade-up"
+          className="text-3xl sm:text-5xl font-medium text-[#3d3d3d]"
+        >
+          Latest Blogs
+        </h1>
+        <p
+          data-aos="fade-up"
+          className="mt-10 max-w-[740px] m-auto text-xs sm:text-base"
+        >
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
           optio sapiente id, asperiores eligendi quia, voluptates ipsum nesciunt
           repellendus illum sequi earum deserunt tempore dicta saepe beatae?
