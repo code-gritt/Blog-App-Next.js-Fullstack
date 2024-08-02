@@ -14,7 +14,7 @@ const Header = () => {
   }, []);
   return (
     <>
-      <div className="py-3 px-5 md:px-12 lg:px-28 shadow-lg rounded bg-[#fbbf24]">
+      <div className="py-3 px-5 md:px-12 lg:px-28 shadow-lg bg-gray-900">
         <div className="transition-all ease-in-out delay-150 flex justify-between items-center">
           <Image
             width={100}

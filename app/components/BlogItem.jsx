@@ -5,7 +5,7 @@ import right_arrow from "../assets/right_arrow.png";
 
 const BlogItem = ({ title, description, category }) => {
   return (
-    <div className="max-w-[330px] sm:max-w-[300px] transition ease-in-out delay-100 bg-white hover:shadow-[-7px_7px_0px_#3d3d3d] border border-black">
+    <div className="max-w-[330px] sm:max-w-[300px] transition ease-in-out delay-100 bg-white hover:shadow-[-7px_7px_0px_#3d3d3d] border border-black showBox">
       <Image
         src={library}
         alt=""

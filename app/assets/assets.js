@@ -14,7 +14,7 @@ export const blog_data = [
     description:
       "Voluptates ipsum nesciunt repellendus illum sequi earum deserunt tempore dicta saepe beatae? Illo, commodi quo?",
     image: "/assets/Library.png",
-    category: "Lifestyle",
+    category: "Startup",
     author: "Alex Bennet",
   },
   {
@@ -23,7 +23,7 @@ export const blog_data = [
     description:
       "Voluptates ipsum nesciunt repellendus illum sequi earum deserunt tempore dicta saepe beatae? Illo, commodi quo?",
     image: "/assets/Library.png",
-    category: "Lifestyle",
+    category: "Technology",
     author: "Alex Bennet",
   },
   {
@@ -41,7 +41,7 @@ export const blog_data = [
     description:
       "Voluptates ipsum nesciunt repellendus illum sequi earum deserunt tempore dicta saepe beatae? Illo, commodi quo?",
     image: "/assets/Library.png",
-    category: "Lifestyle",
+    category: "Technology",
     author: "Alex Bennet",
   },
   {
@@ -59,7 +59,7 @@ export const blog_data = [
     description:
       "Voluptates ipsum nesciunt repellendus illum sequi earum deserunt tempore dicta saepe beatae? Illo, commodi quo?",
     image: "/assets/Library.png",
-    category: "Lifestyle",
+    category: "Startup",
     author: "Alex Bennet",
   },
   {
@@ -68,7 +68,7 @@ export const blog_data = [
     description:
       "Voluptates ipsum nesciunt repellendus illum sequi earum deserunt tempore dicta saepe beatae? Illo, commodi quo?",
     image: "/assets/Library.png",
-    category: "Lifestyle",
+    category: "Startup",
     author: "Alex Bennet",
   },
 ];
