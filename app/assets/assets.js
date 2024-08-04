@@ -4,7 +4,8 @@ export const blog_data = [
     title: "A detailed step by step guidelines to manage a healthy lifestyle",
     description:
       "Voluptates ipsum nesciunt repellendus illum sequi earum deserunt tempore dicta saepe beatae? Illo, commodi quo?",
-    image: "/assets/Library.png",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg",
     category: "Lifestyle",
     author: "Alex Bennet",
   },
@@ -13,7 +14,8 @@ export const blog_data = [
     title: "A detailed step by step guidelines to manage a healthy lifestyle",
     description:
       "Voluptates ipsum nesciunt repellendus illum sequi earum deserunt tempore dicta saepe beatae? Illo, commodi quo?",
-    image: "/assets/Library.png",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg",
     category: "Startup",
     author: "Alex Bennet",
   },
@@ -22,7 +24,8 @@ export const blog_data = [
     title: "A detailed step by step guidelines to manage a healthy lifestyle",
     description:
       "Voluptates ipsum nesciunt repellendus illum sequi earum deserunt tempore dicta saepe beatae? Illo, commodi quo?",
-    image: "/assets/Library.png",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg",
     category: "Technology",
     author: "Alex Bennet",
   },
@@ -31,7 +34,8 @@ export const blog_data = [
     title: "A detailed step by step guidelines to manage a healthy lifestyle",
     description:
       "Voluptates ipsum nesciunt repellendus illum sequi earum deserunt tempore dicta saepe beatae? Illo, commodi quo?",
-    image: "/assets/Library.png",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg",
     category: "Lifestyle",
     author: "Alex Bennet",
   },
@@ -40,7 +44,8 @@ export const blog_data = [
     title: "A detailed step by step guidelines to manage a healthy lifestyle",
     description:
       "Voluptates ipsum nesciunt repellendus illum sequi earum deserunt tempore dicta saepe beatae? Illo, commodi quo?",
-    image: "/assets/Library.png",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg",
     category: "Technology",
     author: "Alex Bennet",
   },
@@ -49,7 +54,8 @@ export const blog_data = [
     title: "A detailed step by step guidelines to manage a healthy lifestyle",
     description:
       "Voluptates ipsum nesciunt repellendus illum sequi earum deserunt tempore dicta saepe beatae? Illo, commodi quo?",
-    image: "/assets/Library.png",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg",
     category: "Lifestyle",
     author: "Alex Bennet",
   },
@@ -58,7 +64,8 @@ export const blog_data = [
     title: "A detailed step by step guidelines to manage a healthy lifestyle",
     description:
       "Voluptates ipsum nesciunt repellendus illum sequi earum deserunt tempore dicta saepe beatae? Illo, commodi quo?",
-    image: "/assets/Library.png",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg",
     category: "Startup",
     author: "Alex Bennet",
   },
@@ -67,7 +74,8 @@ export const blog_data = [
     title: "A detailed step by step guidelines to manage a healthy lifestyle",
     description:
       "Voluptates ipsum nesciunt repellendus illum sequi earum deserunt tempore dicta saepe beatae? Illo, commodi quo?",
-    image: "/assets/Library.png",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg",
     category: "Startup",
     author: "Alex Bennet",
   },
