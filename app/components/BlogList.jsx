@@ -69,6 +69,7 @@ const BlogList = () => {
                 key={index}
                 image={library}
                 title={item.title}
+                id={item.id}
                 description={item.description}
                 category={item.category}
               />

@@ -10,6 +10,7 @@ import tum from "../../../assets/tumblr.png";
 import twi from "../../../assets/twitter.png";
 import fb from "../../../assets/facebook.png";
 import Image from "next/image";
+import Link from "next/link";
 
 const page = ({ params }) => {
   const [data, setData] = useState(null);
@@ -31,12 +32,14 @@ const page = ({ params }) => {
     <>
       <div className="bg-gray-900 py-3 px-5 md:px-12 lg:px-28">
         <div className="flex justify-between items-center">
-          <Image
-            width={100}
-            src={blog_logo}
-            alt=""
-            className="w-[130px] rounded sm:w-auto"
-          />
+          <Link href="/">
+            <Image
+              width={100}
+              src={blog_logo}
+              alt=""
+              className="w-[130px] rounded sm:w-auto"
+            />
+          </Link>
 
           <button
             className="transition ease-in-out delay-100 shadow-lg hover:scale-105 bg-[#3d3d3d] text-white flex gap-2 font-medium py-1 px-3 sm:py-3 sm:px-6 
